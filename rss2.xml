@@ -9,8 +9,27 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>月色如浅唱，江火似流萤</description>
-    <pubDate>Wed, 18 Nov 2020 08:09:47 GMT</pubDate>
+    <pubDate>Wed, 18 Nov 2020 08:37:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>构建博客中暂时未能解决的问题</title>
+      <link>http://example.com/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <guid>http://example.com/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <pubDate>Wed, 18 Nov 2020 08:19:32 GMT</pubDate>
+      
+      <description>&lt;center&gt;如果有知道的请留言&lt;/center&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<center>如果有知道的请留言</center><a id="more"></a><h2> 使用livere做评论系统时，留言板界面加载不出评论</h2>在网上找了一圈答案，都没有发现类似的问题。可能是next主题和livere本身的问题=-=<br>修改的时候不知道哪出错了，js文件全报了语法错误,无奈只好删除blog文件夹重新下载，还好文章不多<br><h2> valine评论无法通过qq号获取头像和用户名</h2>看其他博主的文章，next的valine标签里面有个enableQQ，但是我的next主题下的enableQQ中没有这个标签。加上后也无法通过qq号获取头像和用户名。继续百度发现有的博主是通过valin.min.js来找的。但是我的next目录下没有他们说的footer文件。我猜可能是最新版本的next已经不能用enableQQ了吧。<h2> 无法在博客中加入网易云音乐</h2>在网页版复制了自己喜欢的歌的外部链接，按一个博主说的加入到文件中然后保存并没有效果。网上还有其他的教程没试。<h2> 关于博客美化的其他问题</h2>（持续更新中...)]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>hexo+github+next建造个人博客</title>
@@ -22,7 +41,7 @@
       
       
       
-      <content:encoded><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p><a id="more"></a><h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p><h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/,%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E8%B4%A6%E5%8F%B7%E8%BF%9B%E8%A1%8C%E7%99%BB%E5%BD%95%E3%80%82">https://www.aliyun.com/,用支付宝账号进行登录。</a><br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p><h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p><h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content:encoded>
+      <content:encoded><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p><a id="more"></a><h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p><h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p><h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p><h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content:encoded>
       
       
       
