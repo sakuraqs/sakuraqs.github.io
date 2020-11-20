@@ -24,9 +24,9 @@
 
   <meta name="description" content="月色如浅唱，江火似流萤">
 <meta property="og:type" content="website">
-<meta property="og:title" content="阿彬的博客">
+<meta property="og:title" content="彬">
 <meta property="og:url" content="http://example.com/archives/2020/11/index.html">
-<meta property="og:site_name" content="阿彬的博客">
+<meta property="og:site_name" content="彬">
 <meta property="og:description" content="月色如浅唱，江火似流萤">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="阿彬">
@@ -45,7 +45,7 @@
   };
 </script>
 
-  <title>归档 | 阿彬的博客</title>
+  <title>归档 | 彬</title>
   
 
 
@@ -76,7 +76,7 @@
   </style>
 </noscript>
 
-<link rel="alternate" href="/rss2.xml" title="阿彬的博客" type="application/rss+xml">
+<link rel="alternate" href="/rss2.xml" title="彬" type="application/rss+xml">
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -101,7 +101,7 @@
 
     <a href="/" class="brand" rel="start">
       <span class="logo-line-before"><i></i></span>
-      <h1 class="site-title">阿彬的博客</h1>
+      <h1 class="site-title">彬</h1>
       <span class="logo-line-after"><i></i></span>
     </a>
   </div>
@@ -537,11 +537,13 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       avatar     : 'mm',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : false,
+      visitor    : true,
       lang       : '' || 'zh-cn',
       path       : location.pathname,
       recordIP   : false,
+      enableQQ   : true,
       serverURLs : ''
+
     });
   }, window.Valine);
 });
