@@ -12,6 +12,64 @@
 ]]></content>
   </entry>
   <entry>
+    <title>hexo+github+next建造个人博客</title>
+    <url>/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p>
+<a id="more"></a>
+<h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p>
+<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p>
+<h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p>
+<h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
+  </entry>
+  <entry>
+    <title>HTML学习笔记</title>
+    <url>/2020/11/21/html%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;复习html时的一些思考</p>
+<a id="more"></a>
+<h2 id="HTML是什么？"><a href="#HTML是什么？" class="headerlink" title="HTML是什么？"></a>HTML是什么？</h2><p>html是（使用标记标签来）描述网页的一种语言，指的是超文本标记语言<br><span style="color: #E30B20">注：不是一种编程语言，而是一种标记语言</span><br>标记语言是一套标记标签 </p>
+<h2 id="html的结构长啥样"><a href="#html的结构长啥样" class="headerlink" title="html的结构长啥样"></a>html的结构长啥样</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;Document&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;</span><br><span class="line">        I am 阿彬 !</span><br><span class="line">    &lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="标签是什么？"><a href="#标签是什么？" class="headerlink" title="标签是什么？"></a>标签是什么？</h2><p>标签是HTML语言中最基本的单位，是HTML最重要的组成部分。<br>HTML 标签是由尖括号包围的关键词，比如<code> &lt;html&gt;</code><br>通常是成对出现的，比如<code>&lt;b&gt; 和 &lt;/b&gt;</code><br>标签对中的第一个标签是开始标签，第二个标签是结束标签<br>开始和结束标签也被称为开放标签和闭合标签</p>
+<h3 id="html标签的作用"><a href="#html标签的作用" class="headerlink" title="html标签的作用"></a>html标签的作用</h3><p>将普通文本、图片、音乐等静态动态信息通过指定的一些标签显示在页面上。</p>
+<h2 id="属性是什么？"><a href="#属性是什么？" class="headerlink" title="属性是什么？"></a>属性是什么？</h2><p>标签可以拥有属性。属性提供了有关 HTML 元素的更多的信息<br>属性总是以名称/值对的形式出现，比如：name=”value”。<br>属性总是在 HTML 元素的开始标签中规定。</p>
+<h3 id="适用于大多数-HTML-元素的属性："><a href="#适用于大多数-HTML-元素的属性：" class="headerlink" title="适用于大多数 HTML 元素的属性："></a>适用于大多数 HTML 元素的属性：</h3><table>
+<thead>
+<tr>
+<th>属性</th>
+<th>值</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>class</td>
+<td>classname</td>
+<td>规定元素的类名（classname）</td>
+</tr>
+<tr>
+<td>id</td>
+<td>id</td>
+<td>规定元素的唯一 id</td>
+</tr>
+<tr>
+<td>style</td>
+<td>style_definition</td>
+<td>规定元素的行内样式（inline style）</td>
+</tr>
+<tr>
+<td>title</td>
+<td>text</td>
+<td>规定元素的额外信息（可在工具提示中显示）</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>HTML</category>
+      </categories>
+      <tags>
+        <tag>html</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/11/18/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -32,22 +90,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>hexo+github+next建造个人博客</title>
-    <url>/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p>
-<a id="more"></a>
-<h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p>
-<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p>
-<h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p>
-<h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/11/18/test/</url>
-    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>构建博客中暂时未能解决的问题</title>
     <url>/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<center>如果有知道的请留言</center>
@@ -65,6 +107,12 @@
 <h2> 关于博客美化的其他问题</h2>
 （持续更新中...)
 
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/11/18/test/</url>
+    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
 ]]></content>
   </entry>
 </search>
