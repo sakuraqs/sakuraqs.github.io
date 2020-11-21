@@ -12,6 +12,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/11/18/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo+github+next建造个人博客</title>
     <url>/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p>
@@ -22,9 +42,15 @@
 <h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
   </entry>
   <entry>
+    <title>test</title>
+    <url>/2020/11/18/test/</url>
+    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>HTML学习笔记</title>
     <url>/2020/11/21/html%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;复习html时的一些思考</p>
+    <content><![CDATA[<p>复习html时的一些思考</p>
 <a id="more"></a>
 <h2 id="HTML是什么？"><a href="#HTML是什么？" class="headerlink" title="HTML是什么？"></a>HTML是什么？</h2><p>html是（使用标记标签来）描述网页的一种语言，指的是超文本标记语言<br><span style="color: #E30B20">注：不是一种编程语言，而是一种标记语言</span><br>标记语言是一套标记标签 </p>
 <h2 id="html的结构长啥样"><a href="#html的结构长啥样" class="headerlink" title="html的结构长啥样"></a>html的结构长啥样</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;Document&lt;&#x2F;title&gt;</span><br><span class="line">    &lt;&#x2F;head&gt;</span><br><span class="line">    &lt;body&gt;</span><br><span class="line">        I am 阿彬 !</span><br><span class="line">    &lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
@@ -70,26 +96,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/11/18/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>构建博客中暂时未能解决的问题</title>
     <url>/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<center>如果有知道的请留言</center>
@@ -107,12 +113,6 @@
 <h2> 关于博客美化的其他问题</h2>
 （持续更新中...)
 
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/11/18/test/</url>
-    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
 ]]></content>
   </entry>
 </search>
