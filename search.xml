@@ -42,6 +42,52 @@
 <h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
   </entry>
   <entry>
+    <title>css复习笔记</title>
+    <url>/2020/11/23/css%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>如果有新的补充的会放在评论里。</p>
+<a id="more"></a>
+<h2 id="css是什么？"><a href="#css是什么？" class="headerlink" title="css是什么？"></a>css是什么？</h2><p>css是一种用来表现HTML或XML等文件样式的计算机语言。能够对网页中元素位置的排版进行像素级精确控制，支持几乎所有的字体字号样式，拥有对网页对象和模型样式编辑的能力。CSS不仅可以静态地修饰网页，还可以配合各种脚本语言动态地对网页各元素进行格式化。  </p>
+<h2 id="css语法"><a href="#css语法" class="headerlink" title="css语法"></a>css语法</h2><p>CSS 语法<br>CSS 规则由两个主要的部分构成：选择器，以及一条或多条声明。</p>
+<p><code>selector &#123;declaration1; declaration2; ... declarationN &#125;</code><br>选择器通常是需要改变样式的 HTML 元素。</p>
+<p>每条声明由一个属性和一个值组成。</p>
+<p>属性是希望设置的样式属性，每个属性有一个值。属性和值被冒号分开<br><code>selector &#123;property: value&#125;</code></p>
+<h3 id="多重声明："><a href="#多重声明：" class="headerlink" title="多重声明："></a>多重声明：</h3><p>提示：如果要定义不止一个声明，则需要用分号将每个声明分开。</p>
+<h2 id="HTML怎样添加css样式？"><a href="#HTML怎样添加css样式？" class="headerlink" title="HTML怎样添加css样式？"></a>HTML怎样添加css样式？</h2><h3 id="html添加css样式有三种方法"><a href="#html添加css样式有三种方法" class="headerlink" title="html添加css样式有三种方法"></a>html添加css样式有三种方法</h3><p>分别为行内式（使用style属性，在特定的HTML标签内使用）、内嵌式（style标签把css代码放在特定页面的head部分中）、外联式（使用link标签，将外部css文件链接到HTML中）。</p>
+<h4 id="一、行内式"><a href="#一、行内式" class="headerlink" title="一、行内式"></a>一、行内式</h4><p>使用style属性在特定的HTML标记内设置CSS样式。</p>
+<p>建议不要使用内联CSS，因为每个HTML标记都需要单独设置样式，如果您只使用内联CSS，管理网站可能会变得十分困难。但是，它在某些情况下很有用。例如，在您无法访问CSS文件或仅需要为单个元素应用样式的情况下。带有内联CSS的HTML页面示例如下所示：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line"> &lt;body style&#x3D;&quot;background-color:black;&quot;&gt;</span><br><span class="line">   &lt;h1 style&#x3D;&quot;color:white;padding:30px;&quot;&gt;Hostinger  Tutorials&lt;&#x2F;h1&gt;</span><br><span class="line">   &lt;p style&#x3D;&quot;color:white;&quot;&gt;Something usefll here.&lt;&#x2F;p&gt;</span><br><span class="line"> &lt;&#x2F;body&gt;</span><br><span class="line"> &lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+
+<h4 id="二、内嵌式"><a href="#二、内嵌式" class="headerlink" title="二、内嵌式"></a>二、内嵌式</h4><p>内嵌css样式就是把css代码放在特定页面的部分中。内嵌CSS需要放在标签之间。</p>
+<p>类和ID可用于引用CSS代码，但它们仅在该特定页面上处于活动状态。每次页面加载时都会下载以这种方式嵌入的CSS样式，这样可以提高加载速度。在某些情况下使用内嵌样式表很有用，比如：向某人发送页面模板， 因为一切都在一个页面中，所以看到预览要容易得多。</p>
+<p>内部样式表的一个示例：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;head&gt;</span><br><span class="line">  &lt;style type&#x3D;&quot;text&#x2F;css&quot;&gt;</span><br><span class="line">    p &#123;color:white; font-size: 10px;&#125;</span><br><span class="line">    .center &#123;display: block; margin: 0 auto;&#125;</span><br><span class="line">    #button-go, #button-back &#123;border: solid 1px black;&#125;</span><br><span class="line">  &lt;&#x2F;style&gt;</span><br><span class="line">&lt;&#x2F;head&gt;</span><br></pre></td></tr></table></figure>
+
+<h4 id="三、外联式"><a href="#三、外联式" class="headerlink" title="三、外联式"></a>三、外联式</h4><p>外联式就是使用link标签元素将外部CSS文件（.css文件）引用到HTML页面中，引用需要放在页面的部分中。</p>
+<p>这是将CSS添加到html页面上最方便的方法。这样，对外部CSS文件所做的任何更改都将反映在你的网站上。</p>
+<p>外联样式表的一个示例：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;head&gt;</span><br><span class="line">&lt;link rel&#x3D;&quot;stylesheet&quot; type&#x3D;&quot;text&#x2F;css&quot; href&#x3D;&quot;style.css&quot;&#x2F;&gt;</span><br></pre></td></tr></table></figure>
+
+<p>而style.css包含所有样式规则。例如：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">.xleftcol &#123;</span><br><span class="line">   float:left;</span><br><span class="line">   width:33%;</span><br><span class="line">   background:#809900;</span><br><span class="line">&#125;</span><br><span class="line">.xmiddlecol&#123;</span><br><span class="line">   float: left;</span><br><span class="line">   width: 34%;</span><br><span class="line">   background:#eff2df;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>如今大多数网站使用外部样式表，外部样式是在单独的文档中编写然后附加到各种Web文档的样式。外部样式表会影响它们所连接的任何文件，这意味着如果你有一个20页的网站，每个页面使用相同的样式表，当需要改变的话只需编辑该样式表即可完成这些页面，这使得长期站点管理变得更加容易。</p>
+<h2 id="css盒模型是什么？"><a href="#css盒模型是什么？" class="headerlink" title="css盒模型是什么？"></a>css盒模型是什么？</h2><p>盒模型是网页布局的基础，它制定了元素如何在页面中显示。<br>   元素的外边距（margin）、边框（border）、内边距（padding）、内容（content）就构成了CSS盒模型。</p>
+<h2 id="dispaly常用的值有哪几种？"><a href="#dispaly常用的值有哪几种？" class="headerlink" title="dispaly常用的值有哪几种？"></a>dispaly常用的值有哪几种？</h2><h3 id="none-此元素不会被显示，并且不占据页面空间。"><a href="#none-此元素不会被显示，并且不占据页面空间。" class="headerlink" title="none 此元素不会被显示，并且不占据页面空间。"></a>none 此元素不会被显示，并且不占据页面空间。</h3><p>这也是与visibility:hidden不同的地方，设置visibility:hidden的元素，不会被显示，但是还是会占据原来的页面空间。</p>
+<h3 id="inline-行内元素"><a href="#inline-行内元素" class="headerlink" title="inline 行内元素"></a>inline 行内元素</h3><p>元素会在一行内显示，超出屏幕宽度自动换行，不能设置宽度和高度，元素的宽度和高度只能是靠元素内的内容撑开。<br>示例元素：span,b,i,a,u,sub,sup,strong,em</p>
+<h3 id="block-块级元素"><a href="#block-块级元素" class="headerlink" title="block 块级元素"></a>block 块级元素</h3><p> 会独占一行，如果不设置宽度，其宽度会自动填满父元素的宽度，可以设置宽高，即使设置了宽度，小于父元素的宽度，块级元素也会独占一行。<br>示例元素：div,h1-h6,ul,ol,dl,p</p>
+<h3 id="inline-block-行内块元素"><a href="#inline-block-行内块元素" class="headerlink" title="inline-block 行内块元素"></a>inline-block 行内块元素</h3><p> 与行内元素一样可以再一行内显示，而且可以设置宽高，可以设置margin和padding。</p>
+<h4 id="行内元素与块级元素的区别："><a href="#行内元素与块级元素的区别：" class="headerlink" title="行内元素与块级元素的区别："></a>行内元素与块级元素的区别：</h4><h5 id="嵌套"><a href="#嵌套" class="headerlink" title="嵌套"></a>嵌套</h5><p>行内元素：行内元素只能嵌套行内元素，不能嵌套块级元素。<br>块级元素：块级元素可以嵌套行内元素，但是行内元素不可以嵌套块级元素。块级元素之间也可以进行嵌套，但是，并不是块级元素之间可以随意的嵌套。p元素是不能嵌套任何块级元素的，div可以嵌套任意的元素，但是div并不是能够被所有的块级元素嵌套的。<br>div可以嵌套div<br>td可以嵌套div<br>li可以嵌套div<br>dd，dt可以嵌套div<br>结构标记 可以嵌套div</p>
+<h5 id="margin和padding"><a href="#margin和padding" class="headerlink" title="margin和padding"></a>margin和padding</h5><p>行内元素：有margin和padding，但是只能够设置左右的值，设置上下的值是无效的。<br>块级元素：可以设置margin和padding上下左右的四个值，margin可以有负值，padding不允许有负值。</p>
+<h5 id="设置宽高"><a href="#设置宽高" class="headerlink" title="设置宽高"></a>设置宽高</h5><p>行内元素：不允许设置宽高，行内元素的宽高只能是由行内元素内的内容撑起来。<br>块级元素：允许设置宽高，如果不设置，默认宽度是父元素的100%，高度是由内容撑起来的。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/11/18/test/</url>
+    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>HTML学习笔记</title>
     <url>/2020/11/21/html%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>复习html时的一些思考，有新想法可能会直接发在评论里。</p>
@@ -88,12 +134,6 @@
         <tag>html</tag>
         <tag>前端</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/11/18/test/</url>
-    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
-]]></content>
   </entry>
   <entry>
     <title>构建博客中暂时未能解决的问题</title>
