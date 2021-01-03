@@ -9,8 +9,33 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>月色如浅唱，江火似流萤</description>
-    <pubDate>Fri, 27 Nov 2020 12:35:25 GMT</pubDate>
+    <pubDate>Sun, 03 Jan 2021 15:15:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>软件测试综述</title>
+      <link>http://example.com/2021/01/03/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%BB%BC%E8%BF%B0/</link>
+      <guid>http://example.com/2021/01/03/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%BB%BC%E8%BF%B0/</guid>
+      <pubDate>Sun, 03 Jan 2021 14:09:55 GMT</pubDate>
+      
+      <description>&lt;p&gt;看《软件测试》时的笔记啦✿1-3章。都是些概念,但是我确实需要恶补基础吖✿&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>看《软件测试》时的笔记啦✿1-3章。都是些概念,但是我确实需要恶补基础吖✿</p><a id="more"></a><h3 id="至少满足下列5个规则之一，才称发生了一个软件缺陷"><a href="#至少满足下列5个规则之一，才称发生了一个软件缺陷" class="headerlink" title="至少满足下列5个规则之一，才称发生了一个软件缺陷"></a>至少满足下列5个规则之一，才称发生了一个软件缺陷</h3><p>• 软件未实现产品说明书要求的功能</p><p>• 软件出现了产品说明书指明不应该出现的错误</p><p>• 软件实现了产品说明书未提到的功能</p><p>• 软件未实现产品说明书虽未明确提及但应该实现的目标</p><p>• 软件难以理解、不易使用、运行缓慢或者——从测试员的角度来看，最终用户会成为不好。</p><h3 id="进度表Gantt图表是显示项目任务水平时间线的条形图表"><a href="#进度表Gantt图表是显示项目任务水平时间线的条形图表" class="headerlink" title="进度表Gantt图表是显示项目任务水平时间线的条形图表"></a>进度表Gantt图表是显示项目任务水平时间线的条形图表</h3><h3 id="常用软件设计文档的清单"><a href="#常用软件设计文档的清单" class="headerlink" title="常用软件设计文档的清单"></a>常用软件设计文档的清单</h3><p><span style="color: #7B68EE">结构文档  <span style="color: #808080">描述软件整体设计的文档,包括软件所有主要部分的描述以及相互之间的交互方式</p><p><span style="color: #7B68EE">数据流图 <span style="color: #808080">表示数据在程序中如何流动的正规示意图</p><p><span style="color: #7B68EE">状态转换图 <span style="color: #808080">把软件分解为基本状态或者条件的另-种正规示意图 ，表示不同状态间转换的方式</p><p><span style="color: #7B68EE">流程图 <span style="color: #808080">用图形描述程序逻辑的传统方式</p><p><span style="color: #7B68EE">代码注释</p><h3 id="测试提交清单"><a href="#测试提交清单" class="headerlink" title="测试提交清单"></a>测试提交清单</h3><p><span style="color: #7B68EE">测试计划 <span style="color: #808080">包括质量目标、资源需求进度表、任务分配、方法等</p><p><span style="color: #7B68EE">测试用例 <span style="color: #808080">列举测试的项目，描述验证软件的详细步骤</p><p><span style="color: #7B68EE">缺陷报告 <span style="color: #808080">描述执行测试用例找出的问题，通常记录在数据库中</p><p><span style="color: #7B68EE"> 测试工具和自动测试</p><p><span style="color: #7B68EE">度量、统计和总结 <span style="color: #808080">测试过程的汇总，采用图形、表格和报告等形式。</p><p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #FF6347">帮助文档    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #90EE90"> 用户手册</p><p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #6495ED">样本和示例  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <span style="color: #40E0D0">标签和不干胶</p><p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #008B8B">产品支持信息  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span style="color: #87CEEB"> 图表和标志 </p><p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #3CB371">错误信息        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #808080">广告和宣传材料</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span style="color: #9400D3">安装           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #008B8B">说明文件</p><p><span style="color: #6495ED">别忘了测试错误提示信息</p><h3 id="软件项目成员"><a href="#软件项目成员" class="headerlink" title="软件项目成员"></a>软件项目成员</h3><p><span style="color: #7B68EE">项目经理 <span style="color: #808080">编写产品说明书、管理进度、进行重大决策</p><p><span style="color: #7B68EE"> 体系架构师系统工程师  <span style="color: #808080">技术专家，可以胜任设计整个系统的体系架构或软件</p><p><span style="color: #7B68EE"> 程序员  <span style="color: #808080">编写软件并修复软件中的缺陷</p><p><span style="color: #7B68EE"> 测试员  <span style="color: #808080">负责找出并报告软件产品的问题</p><p><span style="color: #7B68EE"> 技术作者  <span style="color: #808080">编制软件产品附带的文件和联机文档</p><p><span style="color: #7B68EE"> 配置管理员  <span style="color: #808080">把程序员编写的代码及技术作者写的全部文档资料组合在一起， 合成为一个软件包。</p><h3 id="常见的四种软件开发生命周期模式"><a href="#常见的四种软件开发生命周期模式" class="headerlink" title="常见的四种软件开发生命周期模式"></a>常见的四种软件开发生命周期模式</h3><p><span style="color: #7B68EE">大爆炸模式  <span style="color: #808080">计划、进度安排和正规的开发过程几乎没有。所有精力都花在开发软件和编写代码上。多数情况下，大爆炸几乎没有什么测试。</p><p><span style="color: #7B68EE">边写边改模式  <span style="color: #808080">典型的非正规说明书编码、 修改、反复进行[直到有人放弃]最终产品.边写边改模式,极其适合意在快速制作而且用完就扔的小项目.</p><p><span style="color: #7B68EE">瀑布模式  <span style="color: #808080">构思-分析-设计-开发-测试-最终产品</p><h4 id="瀑布模式三点需要强调"><a href="#瀑布模式三点需要强调" class="headerlink" title="瀑布模式三点需要强调"></a>瀑布模式三点需要强调</h4><p>• 瀑布模式非常强调产品的定义，注意:开发或者代码编制阶段只是其中单独的一块。</p><p>• 瀑布模式各步骤的分立的、没有交叉。</p><p>• 瀑布模式无法回溯。一旦进入某个步骤，就要完成该步骤的任务，无法回溯。</p><p><span style="color: #6495ED">缺点:因为测试仅在最后进行，所以一些根本性问题可能出现在早期，但是直到准备发布产品时才可能发现。</p><p><span style="color: #7B68EE">螺旋模式 每一次循环包括6个步骤</p><p>• 确定目标、可选方案和限制条件</p><p>• 明确并化解风险</p><p>• 评估可选方案</p><p>• 当前阶段开发和测试</p><p>• 计划下一阶段</p><p>• 确定进入下一阶段的方法</p><p><span style="color: #6495ED">螺旋模式中包含了一点瀑布模式[分析、设计、开发和测试的步骤]、一点边写边改模式[螺旋模式的每一次] 和一点大爆炸模式[从外界观察]加上改模式发现问题早、成本低的特点，可以算做相当好的开发模式。</p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      <category domain="http://example.com/tags/%E3%80%8A%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E3%80%8B/">《软件测试》</category>
+      
+      
+      <comments>http://example.com/2021/01/03/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%BB%BC%E8%BF%B0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>前端笔试题-H5&amp;CSS</title>
