@@ -390,4 +390,48 @@
         <tag>《软件测试》</tag>
       </tags>
   </entry>
+  <entry>
+    <title>测试基础二</title>
+    <url>/2021/02/28/%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E4%BA%8C/</url>
+    <content><![CDATA[<p>《软件测试》这本书大概就看到这里了，后面的稍微翻了下..emm..以我现在的基础，看了也白搭…因为是刚接触软件测试时做的笔记，现在看来十分无用..只是总结了一些概念.我并没有理解.但是也还是发了博客~希望以后再回过头来看时，我的理解能不止于概念。</p>
+<a id="more"></a>
+<h2 id="第六章"><a href="#第六章" class="headerlink" title="第六章"></a>第六章</h2><h3 id="静态白盒测试-检查设计和代码"><a href="#静态白盒测试-检查设计和代码" class="headerlink" title="静态白盒测试:检查设计和代码"></a>静态白盒测试:检查设计和代码</h3><p>在不执行软件的条件下有条理地仔细审查软件设计、体系结构和代码，从而找出软件缺陷的过程，有时称为结构化分析。</p>
+<h3 id="正式审查"><a href="#正式审查" class="headerlink" title="正式审查"></a>正式审查</h3><p>进行静态白盒测试的过程</p>
+<h4 id="正式审查有四个基本要素"><a href="#正式审查有四个基本要素" class="headerlink" title="正式审查有四个基本要素:"></a>正式审查有四个基本要素:</h4><p>• 确定问题</p>
+<p>• 遵守规则</p>
+<p>• 准备</p>
+<p>• 编写报告</p>
+<h4 id="正式审查的间接效果"><a href="#正式审查的间接效果" class="headerlink" title="正式审查的间接效果:"></a>正式审查的间接效果:</h4><p>• 交流正式报告中未包含的信息得以交流</p>
+<p>• 质量让程序员多花点心思保证准确性。</p>
+<p>• 小组同志化</p>
+<p>• 解决问题</p>
+<h4 id="同事审查"><a href="#同事审查" class="headerlink" title="同事审查"></a>同事审查</h4><p><span style="color: #7B68EE">走查</span>  走查中编写代码的程序员向5人小组或者其他程序员和测试员组成的小组做正式陈述。</p>
+<p><span style="color: #7B68EE">检验</span>  最正式的审查类型，具有高度组织化。要求每一个参与者都接受训练。</p>
+<h3 id="编码标准和规范"><a href="#编码标准和规范" class="headerlink" title="编码标准和规范"></a>编码标准和规范</h3><p>有三个重要的原因要坚持标准或规范</p>
+<p>• 规范性</p>
+<p>• 可读性\维护性</p>
+<p>• 移植值</p>
+<h3 id="通用代码审查清单"><a href="#通用代码审查清单" class="headerlink" title="通用代码审查清单"></a>通用代码审查清单</h3><p>• 数据引用错误 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 数据声明错误</p>
+<p>• 计算错误 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;• 比较错误</p>
+<p>• 控制流程错误 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 子程序参数错误</p>
+<p>• 输入\输出错误 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   • 其他检查</p>
+<h2 id="第七章"><a href="#第七章" class="headerlink" title="第七章"></a>第七章</h2><h3 id="动态白盒测试包括以下四个部分"><a href="#动态白盒测试包括以下四个部分" class="headerlink" title="动态白盒测试包括以下四个部分:"></a>动态白盒测试包括以下四个部分:</h3><p>• 直接测试底层函数、过程、子程序和库</p>
+<p>• 以完整程序的方式从顶层测试软件，但是根据对软件运行的了解调整测试用例</p>
+<p>• 从软件获得读取变量和状态信息的访问权,以便确定测试与预期结果是否相符，同时，强制软件以正常测试难以实现的方式运行</p>
+<p>• 估算执行测试时，”命中” 的代码量和具体代码，然后调整测试，去掉多余的测试用例，补充遗漏的用例</p>
+<h3 id="动态白盒测试和调试"><a href="#动态白盒测试和调试" class="headerlink" title="动态白盒测试和调试."></a>动态白盒测试和调试.</h3><p>动态白盒测试的目标是寻找软件缺陷，调试的目标是修复缺陷。然而它们在隔离软件缺陷的位置和原因上确实存在交叉现象。</p>
+<h3 id="单元测试和集成测试"><a href="#单元测试和集成测试" class="headerlink" title="单元测试和集成测试"></a>单元测试和集成测试</h3><p>如果代码分段构建和测试，最后合在一起形成更大的部分,那么整个产品无疑会链接在一起。</p>
+<h2 id="4-7章讲述了软件测试的基础"><a href="#4-7章讲述了软件测试的基础" class="headerlink" title="4~7章讲述了软件测试的基础:"></a>4~7章讲述了软件测试的基础:</h2><p><span style="color: #7B68EE">静态黑盒测试</span> 是指检查产品说明书，并在软件编写之前找出问题</p>
+<p><span style="color: #7B68EE">动态黑盒测试</span> 是指在不了解软件如何工作的前提下进行测试</p>
+<p><span style="color: #7B68EE">静态白盒测试</span> 是指通过正式审查和检验检查代码的细节</p>
+<p><span style="color: #7B68EE">动态白盒测试</span> 是指在看到软件的工作方式时，根据获得的信息对软件进行测试</p>
+]]></content>
+      <categories>
+        <category>软件测试</category>
+      </categories>
+      <tags>
+        <tag>软件测试</tag>
+        <tag>《软件测试》</tag>
+      </tags>
+  </entry>
 </search>
