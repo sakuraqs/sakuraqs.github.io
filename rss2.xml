@@ -9,8 +9,56 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>月色如浅唱，江火似流萤</description>
-    <pubDate>Sun, 28 Feb 2021 12:27:31 GMT</pubDate>
+    <pubDate>Tue, 09 Mar 2021 16:02:25 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>adb常用命令</title>
+      <link>http://example.com/2021/03/09/adb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <guid>http://example.com/2021/03/09/adb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <pubDate>Tue, 09 Mar 2021 15:15:03 GMT</pubDate>
+      
+      <description>&lt;hr/&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<hr/><a id="more"></a><h3> ADB简介 </h3>              ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代的强大工具，也是 Android 设备玩家的好玩具。安卓调试桥 (Android Debug Bridge, adb)，是一种可以用来操作手机设备或模拟器的命令行工具。它存在于 sdk/platform-tools 目录下。<h3> 常用命令</h3>查看当前连接设备<p><code>adb devices</code></p><p>如果发现多个设备<br><code>adb -s 设备号</code></p><p>查看顶部 Activity<br><code>adb shell dumpsys activity | findstr &quot;mFocusedActivity&quot;</code><br>【o(<em>￣▽￣</em>)o直接找开发要更加方便】</p><p>查看日志<br><code>adb logcat</code><br>ps：日志有很多过滤级别，但是因为在项目中，我都是用Android studio来抓日志，这个命令也没咋用过了，就不详细写了。</p><p>安装apk文件<br><code>adb install .xxx..(地址）</code><br>覆盖安装<br><code>adb install -r -t xxx</code></p><p>往手机的SD卡传递文件<br><code>adb push 文件名 手机端SDCard路径</code></p><p>查看手机端安装的所有app包名</p><p><code>adb shell pm list packages </code></p><p>启动activity<br><code>adb shell am start 包名/完整Activity路径</code></p><p>屏幕截图<br><code>adb shell screencap /sdcard/screen.png</code></p><p>录制视频<br><code>adb shell screenrecord /sdcard/demo.mp4</code></p><p>其实除了安装apk之外挺少用到adb的命令</p><p>慢慢补充吧~</p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <comments>http://example.com/2021/03/09/adb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>探索性软件测试</title>
+      <link>http://example.com/2021/03/09/%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</link>
+      <guid>http://example.com/2021/03/09/%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</guid>
+      <pubDate>Tue, 09 Mar 2021 14:18:10 GMT</pubDate>
+      
+      <description>&lt;p&gt;所有软件都会执行四个基本任务：接受输出、产生输出、存储数据、进行运算。&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>所有软件都会执行四个基本任务：接受输出、产生输出、存储数据、进行运算。</p><a id="more"></a><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>大概是工作的第二个月开始看的这本书，对我这种新手来说，这本书比《软件测试》有趣的多。也是启发了我面对一个没有用过的产品时，该怎样有条理的进行测试。</p><h3 id="漫游测试"><a href="#漫游测试" class="headerlink" title="漫游测试"></a>漫游测试</h3><p>把软件测试的过程当成一场旅游。</p><h4 id="商业区"><a href="#商业区" class="headerlink" title="商业区"></a>商业区</h4><p>在城市中，商业区意味着繁荣，人群的拥挤。是来到一座城市后首选的地方(先找到市中心吃吃喝喝）<br>对软件测试来说，”商业区意味着”这个软件的主打功能。是用户最常用到的。<br>举例：测试一个音乐播放器app，登录注册、选歌单、听歌、收藏、后台播放、退出app。这些操作都是用户最常用到的。</p><h4 id="历史区"><a href="#历史区" class="headerlink" title="历史区"></a>历史区</h4><p>测试从前版本留下的代码，曾经出现较多缺陷的特性和功能。很多缺陷可能这几个版本没有发现，后一个版本又复现了。(所以多轮迭代测试还是非常重要阿！对一些严重且概率较低的bug应该在每个版本都验证一下）</p><h4 id="旅游区"><a href="#旅游区" class="headerlink" title="旅游区"></a>旅游区</h4><p>本地人不常去，外地人专门为此来的地方。在软件中，有些特性和功能对新用户非常有吸引力，老用户却不怎么使用。<br>ps：这个还真不好说，谁知道新用户看上了哪点呢~</p><h4 id="娱乐区"><a href="#娱乐区" class="headerlink" title="娱乐区"></a>娱乐区</h4><p>类似于电影院，商场这样能让人休息放松的地方，<br>举例：这个举例感jio…居然想不出来，先空着占个地吧~</p><h4 id="旅馆区"><a href="#旅馆区" class="headerlink" title="旅馆区"></a>旅馆区</h4><p>这当然就是休息的地方了~当软件休息时，实际上他还是非常忙碌。<br>举例：将蓝牙耳机放置桌上几小时，拿起来佩戴后，佩戴检测可能失效。</p><h4 id="破旧区"><a href="#破旧区" class="headerlink" title="破旧区"></a>破旧区</h4><p>旅游中没有人想去的地方~<br>测试中，用户很少使用的功能，容易出错的功能~</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>这本书目前是看完了前四章，对这个漫游测试方法的印象最深，其他的倒是不怎么记得了，所以其他的也就没写QAQ..毕竟不是概念，还是先寻找到一种自己喜欢的测试方法比较重要<del>剩下的边看边理解吧</del></p><h3 id="一个关于软件测试的笑话"><a href="#一个关于软件测试的笑话" class="headerlink" title="一个关于软件测试的笑话"></a>一个关于软件测试的笑话</h3><p>一个测试工程师走进一家酒吧，要了一杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯咖啡；<br>一个测试工程师走进一家酒吧，要了0.7杯啤酒；<br>一个测试工程师走进一家酒吧，要了-1杯啤酒；<br>一个测试工程师走进一家酒吧，要了2^32杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯洗脚水；<br>一个测试工程师走进一家酒吧，要了一杯蜥蜴；<br>一个测试工程师走进一家酒吧，要了一份asdfQwer@24dg!&amp;*(@；<br>一个测试工程师走进一家酒吧，什么也没要；<br>一个测试工程师走进一家酒吧，又走出去又从窗户进来又从后门出去从下水道钻进来；<br>一个测试工程师走进一家酒吧，又走出去又进来又出去又进来又出去，最后在外面把老板打了一顿；<br>一个测试工程师走进一家酒吧，要了一杯烫烫烫的锟斤拷；<br>一个测试工程师走进一家酒吧，要了NaN杯Null；<br>一个测试工程师冲进一家酒吧，要了500T啤酒咖啡洗脚水野猫狼牙棒奶茶；<br>一个测试工程师把酒吧拆了；<br>一个测试工程师化装成老板走进一家酒吧，要了500杯啤酒并且不付钱；<br>一万个测试工程师在酒吧门外呼啸而过；<br>一个测试工程师走进一家酒吧，要了一杯啤酒’;DROP TABLE 酒吧；<br>测试工程师们满意地离开了酒吧。<br>然后一名顾客点了一份炒饭，酒吧炸了。</p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      <category domain="http://example.com/tags/%E3%80%8A%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E3%80%8B/">《探索性软件测试》</category>
+      
+      
+      <comments>http://example.com/2021/03/09/%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>测试基础二</title>
@@ -197,47 +245,6 @@
       
       
       <comments>http://example.com/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>hexo+github+next建造个人博客</title>
-      <link>http://example.com/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
-      <guid>http://example.com/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <pubDate>Wed, 18 Nov 2020 07:55:31 GMT</pubDate>
-      
-      <description>&lt;p&gt;先写个目录，这几天部署不太稳定。慢慢更新细节吧&lt;/p&gt;</description>
-      
-      
-      
-      <content:encoded><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p><a id="more"></a><h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p><h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p><h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p><h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://example.com/2020/11/18/test/</link>
-      <guid>http://example.com/2020/11/18/test/</guid>
-      <pubDate>Wed, 18 Nov 2020 03:17:31 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;这是一个测试文件&quot;&gt;&lt;a href=&quot;#这是一个测试文件&quot; class=&quot;headerlink&quot; title=&quot;这是一个测试文件&quot;&gt;&lt;/a&gt;这是一个测试文件&lt;/h1&gt;&lt;p&gt;百度: &lt;a href=&quot;https://www.baidu.com/&quot;&gt;https://w</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2020/11/18/test/#disqus_thread</comments>
       
     </item>
     
