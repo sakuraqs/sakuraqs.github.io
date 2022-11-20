@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2022世界杯</title>
+    <url>/2022/11/20/2022%E4%B8%96%E7%95%8C%E6%9D%AF/</url>
+    <content><![CDATA[<p>明天世界杯就要开始啦! 我真的好久没写博客了呀，不能再摆烂了 !。</p>
+<a id="more"></a>
+<h3 id="这一年"><a href="#这一年" class="headerlink" title="这一年"></a>这一年</h3><p>很明显心境和刚毕业时有了很大的不同，去年觉得时间还早，我还有时间，每得到一点成就都会觉得自己进步很大。今年经常会觉得很累，进步的很慢，毕竟不知不觉已经毕业快一年半了，读研的同学已经读完了一年，考研的同学今年也已经是三战。更别说有很多高中同学今年已经结婚。时间过的好快啊，我总是觉得很彷徨，人生不过短短数十年，而毕业后要在几年内完成很多的事情。环境一直在推着我往前走，在我觉得还不知道去哪的时候。有时候也会觉得自己比起以前已经很棒了，我一直在责备自己，又想办法原谅自己。</p>
+<h3 id="关于拖延症"><a href="#关于拖延症" class="headerlink" title="关于拖延症"></a>关于拖延症</h3><p>我确实是有很大的拖延症在身上的，或者说除了到真的ddl的时候，否则我很难进入状态。这个是真的要改呀！</p>
+<h3 id="随缘写一些2022的事情"><a href="#随缘写一些2022的事情" class="headerlink" title="随缘写一些2022的事情"></a>随缘写一些2022的事情</h3><h4 id="中秋的月亮会按时圆吗？"><a href="#中秋的月亮会按时圆吗？" class="headerlink" title="中秋的月亮会按时圆吗？"></a>中秋的月亮会按时圆吗？</h4><p>来源于我中秋节前一周回老家，晚上和李超去河边散步，发现要中秋节了，月亮还是很弯。当时我们两很担心月亮在中秋节会不会按时圆，毕竟中秋节如果是弯弯的月亮那多不好啊。后面中秋节时发现果然是我们有多余的担心了！当时还特意查了一下月相（但是没怎么弄明白），本来是想搞个模型计算一下在地球各个位置看月球的具体弧度的，但是…没查到啥资料hhhh</p>
+<h4 id="关于爬山"><a href="#关于爬山" class="headerlink" title="关于爬山"></a>关于爬山</h4><p>说象鼻窝的那次爬山吧，收尾的那个小哥说，他之前在深圳时每周爬一次山坚持了一年多，但是也没想明白很多事情.<br>有很多事情我也想不明白，一直想也很难想明白。</p>
+<h4 id="关于运动"><a href="#关于运动" class="headerlink" title="关于运动"></a>关于运动</h4><p>开始跑步了！虽然还没坚持多久，但是总归是开始了。很喜欢在一个比较安静的刮着小风的湖边跑步，这种氛围很好~我觉得我还是喜欢一个人的</p>
+<h4 id="生老病死"><a href="#生老病死" class="headerlink" title="生老病死"></a>生老病死</h4><p>中秋节前回去时，爷爷一直在说一些事情，但是其实我很不想听，他一说我就想哭。有种交代后事的感觉，是一件让我觉得很伤心的事情。</p>
+<h4 id="人是复杂的"><a href="#人是复杂的" class="headerlink" title="人是复杂的"></a>人是复杂的</h4><p>记得高中时有次语文试卷上的一篇文章，大概内容是发动战争那方的将军被另一方抓获后还保持着尊严，也因此被另一方的将军给予了一定程度的尊重（没记错的话应该是这样）当时的题目是这体现了人的什么性，我想了很久也没想出答案，毕竟发动战争的罪恶方有一些尊严那又如何呢？我陷入了关于好坏的思考。最后课上老师说：这体现了人的复杂性，人是复杂的。这句话让我记了很久很久，人是复杂的，而当今的网络环境把人都分为二极管了，每当在网上看到这种言论，我始终会想起：人是复杂的。<br><br><br>很多时候真的觉得，世界真的好神奇啊。我是怎样活在这个世界的呢。未来又会以怎样的形式在宇宙中。</p>
+]]></content>
+      <categories>
+        <category>2022</category>
+      </categories>
+      <tags>
+        <tag>2022</tag>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>adb常用命令</title>
     <url>/2021/03/09/adb%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<hr/>
@@ -90,6 +111,36 @@ ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代�
       </tags>
   </entry>
   <entry>
+    <title>hexo+github+next建造个人博客</title>
+    <url>/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p>
+<a id="more"></a>
+<h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p>
+<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p>
+<h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p>
+<h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/11/18/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>HTML学习笔记</title>
     <url>/2020/11/21/html%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>复习html时的一些思考，有新想法可能会直接发在评论里。</p>
@@ -135,150 +186,6 @@ ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代�
       <tags>
         <tag>前端</tag>
         <tag>html</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo+github+next建造个人博客</title>
-    <url>/2020/11/18/hexo-github-next%E5%BB%BA%E9%80%A0%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>先写个目录，这几天部署不太稳定。慢慢更新细节吧</p>
-<a id="more"></a>
-<h2 id="注册GitHub"><a href="#注册GitHub" class="headerlink" title="注册GitHub"></a>注册GitHub</h2><p> 这个很简单应该都会就不写了。</p>
-<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p>  不想购买域名的可以略过这一步<br>以阿里云为例，点此进入阿里云官网：<a href="https://www.aliyun.com/">https://www.aliyun.com/</a><br>用支付宝账号进行登录。<br>点击域名注册，输入自己喜欢的域名进行查找购买。进行实名验证等。。可能备案需要几天。</p>
-<h2 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h2><p>进入git官网选择与电脑合适的版本进行下载，一路next。选择文件位置时可安装在d盘。</p>
-<h2 id="git与GitHub绑定"><a href="#git与GitHub绑定" class="headerlink" title="git与GitHub绑定"></a>git与GitHub绑定</h2><h2 id="安装node-js与hexo"><a href="#安装node-js与hexo" class="headerlink" title="安装node.js与hexo"></a>安装node.js与hexo</h2><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h2 id="设置next主题"><a href="#设置next主题" class="headerlink" title="设置next主题"></a>设置next主题</h2><h2 id="优化主题"><a href="#优化主题" class="headerlink" title="优化主题"></a>优化主题</h2>]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/11/18/test/</url>
-    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>探索性软件测试</title>
-    <url>/2021/03/09/%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>所有软件都会执行四个基本任务：接受输出、产生输出、存储数据、进行运算。</p>
-<a id="more"></a>
-<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>大概是工作的第二个月开始看的这本书，对我这种新手来说，这本书比《软件测试》有趣的多。也是启发了我面对一个没有用过的产品时，该怎样有条理的进行测试。</p>
-<h3 id="漫游测试"><a href="#漫游测试" class="headerlink" title="漫游测试"></a>漫游测试</h3><p>把软件测试的过程当成一场旅游。</p>
-<h4 id="商业区"><a href="#商业区" class="headerlink" title="商业区"></a>商业区</h4><p>在城市中，商业区意味着繁荣，人群的拥挤。是来到一座城市后首选的地方(先找到市中心吃吃喝喝）<br>对软件测试来说，”商业区意味着”这个软件的主打功能。是用户最常用到的。<br>举例：测试一个音乐播放器app，登录注册、选歌单、听歌、收藏、后台播放、退出app。这些操作都是用户最常用到的。</p>
-<h4 id="历史区"><a href="#历史区" class="headerlink" title="历史区"></a>历史区</h4><p>测试从前版本留下的代码，曾经出现较多缺陷的特性和功能。很多缺陷可能这几个版本没有发现，后一个版本又复现了。(所以多轮迭代测试还是非常重要阿！对一些严重且概率较低的bug应该在每个版本都验证一下）</p>
-<h4 id="旅游区"><a href="#旅游区" class="headerlink" title="旅游区"></a>旅游区</h4><p>本地人不常去，外地人专门为此来的地方。在软件中，有些特性和功能对新用户非常有吸引力，老用户却不怎么使用。<br>ps：这个还真不好说，谁知道新用户看上了哪点呢~</p>
-<h4 id="娱乐区"><a href="#娱乐区" class="headerlink" title="娱乐区"></a>娱乐区</h4><p>类似于电影院，商场这样能让人休息放松的地方，<br>举例：这个举例感jio…居然想不出来，先空着占个地吧~</p>
-<h4 id="旅馆区"><a href="#旅馆区" class="headerlink" title="旅馆区"></a>旅馆区</h4><p>这当然就是休息的地方了~当软件休息时，实际上他还是非常忙碌。<br>举例：将蓝牙耳机放置桌上几小时，拿起来佩戴后，佩戴检测可能失效。</p>
-<h4 id="破旧区"><a href="#破旧区" class="headerlink" title="破旧区"></a>破旧区</h4><p>旅游中没有人想去的地方~<br>测试中，用户很少使用的功能，容易出错的功能~</p>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>这本书目前是看完了前四章，对这个漫游测试方法的印象最深，其他的倒是不怎么记得了，所以其他的也就没写QAQ..毕竟不是概念，还是先寻找到一种自己喜欢的测试方法比较重要<del>剩下的边看边理解吧</del></p>
-<h3 id="一个关于软件测试的笑话"><a href="#一个关于软件测试的笑话" class="headerlink" title="一个关于软件测试的笑话"></a>一个关于软件测试的笑话</h3><p>一个测试工程师走进一家酒吧，要了一杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯咖啡；<br>一个测试工程师走进一家酒吧，要了0.7杯啤酒；<br>一个测试工程师走进一家酒吧，要了-1杯啤酒；<br>一个测试工程师走进一家酒吧，要了2^32杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯洗脚水；<br>一个测试工程师走进一家酒吧，要了一杯蜥蜴；<br>一个测试工程师走进一家酒吧，要了一份asdfQwer@24dg!&amp;*(@；<br>一个测试工程师走进一家酒吧，什么也没要；<br>一个测试工程师走进一家酒吧，又走出去又从窗户进来又从后门出去从下水道钻进来；<br>一个测试工程师走进一家酒吧，又走出去又进来又出去又进来又出去，最后在外面把老板打了一顿；<br>一个测试工程师走进一家酒吧，要了一杯烫烫烫的锟斤拷；<br>一个测试工程师走进一家酒吧，要了NaN杯Null；<br>一个测试工程师冲进一家酒吧，要了500T啤酒咖啡洗脚水野猫狼牙棒奶茶；<br>一个测试工程师把酒吧拆了；<br>一个测试工程师化装成老板走进一家酒吧，要了500杯啤酒并且不付钱；<br>一万个测试工程师在酒吧门外呼啸而过；<br>一个测试工程师走进一家酒吧，要了一杯啤酒’;DROP TABLE 酒吧；<br>测试工程师们满意地离开了酒吧。<br>然后一名顾客点了一份炒饭，酒吧炸了。</p>
-]]></content>
-      <categories>
-        <category>软件测试</category>
-      </categories>
-      <tags>
-        <tag>软件测试</tag>
-        <tag>《探索性软件测试》</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/11/18/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试基础一</title>
-    <url>/2021/01/25/%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E4%B8%80/</url>
-    <content><![CDATA[<hr/>     
-<a id="more"></a>
-
-<h2 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h2><h3 id="检查产品说明书"><a href="#检查产品说明书" class="headerlink" title="检查产品说明书"></a>检查产品说明书</h3><p>编写详细产品说明书可以将其作为测试项目的书面材料，据此可以在编写代码之前找出软件缺陷。</p>
-<h3 id="黑盆测试和白盒测试"><a href="#黑盆测试和白盒测试" class="headerlink" title="黑盆测试和白盒测试"></a>黑盆测试和白盒测试</h3><p><span style="color: #7B68EE">黑盒测试[功能性测试行为测试]</span><br>   无法看到盒子里的软件是如何运行的，只要进行一些输入,就能得到某种输出结果。</p>
-<p><span style="color: #7B68EE">白盒测试[透明性测试]</span><br>  可以访问程序员代码，并通过检查代码的线索来协助测试，测试员根据代码检查结果判断或多或少可能出错的数目，并据此定制测试。<br><span style="color: #FF0000">注意:进行白盒测试要冒一些风险。因为要以适应代码操作来定制测试，所以很容易形成偏见而无法进行客观测试。</p>
-<h3 id="静态测试和动态测试"><a href="#静态测试和动态测试" class="headerlink" title="静态测试和动态测试"></a>静态测试和动态测试</h3><p><span style="color: #7B68EE">静态测试</span>   测试不运行的部分，只是检查和审核</p>
-<p><span style="color: #7B68EE">动态测试</span>   通常意义上的测试，使用和运行软件</p>
-<p><span style="color: #FF0000">测试产品说明书属于静态黑盒测试。</p>
-<h3 id="审查竞争产品时要注意的问题包括"><a href="#审查竞争产品时要注意的问题包括" class="headerlink" title="审查竞争产品时要注意的问题包括"></a>审查竞争产品时要注意的问题包括</h3><p><span style="color: #7B68EE"> 规模</span>   软件的功能强大还是单一? 代码多还是少?这些差别与测试有关吗?</p>
-<p><span style="color: #7B68EE"> 复杂性</span>  软件简单还是复杂?会影响测试吗?</p>
-<p><span style="color: #7B68EE">测试性</span>  是否有足够的资源、时间和经验来测试软件?</p>
-<p><span style="color: #7B68EE">质量和可靠性 </span> 软件是否完全满足质量要求?可靠性高还是低?</p>
-<p><span style="color: #7B68EE">安全性 </span> 竞争对手软件的安全性(不管是宣传还是实际的)和自身的比较起来如何?</p>
-<h3 id="产品说明书属性检查清单"><a href="#产品说明书属性检查清单" class="headerlink" title="产品说明书属性检查清单"></a>产品说明书属性检查清单</h3><p><span style="color: #7B68EE">完整</span>   是否有遗漏和丢失?是否完全?单独使用时是否包含所有内容?</p>
-<p><span style="color: #7B68EE">准确</span>   既定解决方案正确吗?目标定义明确吗?有没有错误?</p>
-<p><span style="color: #7B68EE">精确、不含糊、清晰</span>   描述是否一清二楚?是否有单独的解释?容易看懂和理解吗?</p>
-<p><span style="color: #7B68EE">一致</span> 产品功能描述是否自相矛盾、或与其他功能有无冲突?</p>
-<p><span style="color: #7B68EE">贴切 </span>  描述功能的陈述是否必要?有没有多余信息?功能是否符合原来的客户要求?</p>
-<p><span style="color: #7B68EE">合理</span>  在规定的预算和进度下，以现有人力、工具和资源能否实现?</p>
-<p><span style="color: #7B68EE">代码无关</span> 产品说明书是否坚持定义产品，而不是定义其软件设计、架构和代码</p>
-<p><span style="color: #7B68EE">可测试性</span>  功能能否测试?给测试员提供的建立验证操作的信息量是否足够?</p>
-<h2 id="第五章"><a href="#第五章" class="headerlink" title="第五章"></a>第五章</h2><p><span style="color: #7B68EE">动态黑盒测试</span> 不深入代码细节测试软件的方法。测试员输入数据、接受输出、检验结果。</p>
-<p><span style="color: #7B68EE">测试用例</span>  进行测试时使用特定输入，以及测试软件的过程步骤</p>
-<h3 id="软件测试两种基本方法"><a href="#软件测试两种基本方法" class="headerlink" title="软件测试两种基本方法"></a>软件测试两种基本方法</h3><p><span style="color: #7B68EE">通过性测试</span>  确认软件至少能做什么，而不会考验其能力，仅用最简单，最直观的测试用例。</p>
-<p>纯粹为了破坏软件而设计和执行的测试用例称为   <span style="color: #7B68EE">失效性测试或错误强制测试</span></p>
-<p><span style="color: #4169E1">等价类划分<br><span style="color: #4169E1">选择测试用例的方法是等价类划分，等价类划分是指分步骤地把海量的测试用例集减的很小，但过程同样有效。</p>
-<p><span style="color: #FF0000">注意:一个等价类或者等价划分是指测试相同目标或者暴露相同软件缺陷的一组测试用例</span></p>
-<hr/>
-<span style="color: #FF0000">数据测试</span>
-对软件最简单的认识就是将其分成两部分:数据(或其范围)和程序。数据包括键盘输入、鼠标单击、磁盘文件、打印输出等。程序是指可执行的流程、转换。软件测试常用的一个方法是把测试工作按同样的形式划分。
-
-<p><span style="color: #FF0000">边界条件</span><br>边界条件是特殊情况，因为编程从根本上说在边界上容易产生问题。</p>
-<p><span style="color: #FF0000">次边界条件</span><br>有些边界在软件内部，最终用户几乎看不到，但是软件测试员仍然有必要进行检查。这样的边界条件称为次边界条件。</p>
-<p>一定要考虑建立处理<span style="color: #FF0000">默认值、空白、空值、零值或者无输入</span>等条件的等价划分</p>
-<p><span style="color: #4169E1">因为这些值在软件中通常进行不同的处理，所以不要把它们与合法情况和非法情况混在一起，而要建立单独的等价划分。可能在这种默认情况下,和输入或者-1作为非法值比较起来,软件会执行不同路径。由于考虑到软件的不同操作，所以应把这些作为单独的等价划分。</span></p>
-<p><span style="color: #FF0000">非法、错误、不正确和垃圾数据.</span></p>
-<p>此类软件没有实际的规则，只是设法破坏软件,要发挥创造力，学会走偏门。</p>
-<h3 id="状态测试"><a href="#状态测试" class="headerlink" title="状态测试"></a>状态测试</h3><p>软件状态是指软件当前所处的条件或者模式。</p>
-<p>软件通过代码执行进入某一个分支,触发一些数据位， 设置某些变量，读取某些数据，转入一个新的状态。</p>
-<p><span style="color: #FF0000">注意软件测试员必须测试程序的状态及其转换</span></p>
-<p>对于软件测试，解决方法是运用等价划分技术选择状态和分支。因为选择不做完全测试，所以要承担一定的风险,但是要通过合理选择减少风险。</p>
-<h4 id="状态转换图应该表示出以下项目"><a href="#状态转换图应该表示出以下项目" class="headerlink" title="状态转换图应该表示出以下项目:"></a>状态转换图应该表示出以下项目:</h4><p>软件可能进入的每一种独立状态</p>
-<p>从一种状态转入另一种状态所需的输入和条件</p>
-<p>状态转换图应该表示出以下项目:</p>
-<p>软件可能进入的每种独立状态</p>
-<p>从一种状态转入另-种状态所需的输入和条件</p>
-<p>进入或者退出某种状态时的设置条件及输出结果</p>
-<h4 id="需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法"><a href="#需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法" class="headerlink" title="需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法"></a>需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法</h4><p>每种状态至少访问一次。如何到达没有关系。但是每一种状态都必须测试</p>
-<p>测试看起来是最常见和最普遍的状态转换</p>
-<p>测试状态之间最不常用的分支</p>
-<p>测试所有错误状态及其返回值</p>
-<p>测试随机状态转换</p>
-<p><span style="color: #4169E1">测试状态及其转换包括检查所有的状态变量</span>——<span style="color: #FF0000">与进入和退出状态相关的静态条件、信息、值、功能等。</span></p>
-<h3 id="竞争条件和时序错乱"><a href="#竞争条件和时序错乱" class="headerlink" title="竞争条件和时序错乱"></a>竞争条件和时序错乱</h3><p><span style="color: #7B68EE">以下是可能会面临竞争条件的例子情形</span></p>
-<p>两个不同的程序同时保存和打开同一个文档</p>
-<p>共享同一台打印机、通信端口或者其他外围设备</p>
-<p>当软件处于读取或者改变状态时按键或者单击鼠标</p>
-<p>当软件处于读取或者改变状态时按键或者单击鼠标</p>
-<p>同时关闭或者启动软件的多个实例</p>
-<p>同时使用不同的程字访问-个共同的数据库</p>
-<hr/>
-另外三个失效性测试是<span style="color: #FF0000">重复、压迫和重负</span>。这些测试的目标是那些处理程序员没考虑到，但在极端恶劣条件下可能发生问题的状态。
-
-<p><span style="color: #7B68EE">重复测试</span> 不断执行同样的操作。进行这种反复测试的主要原因是检查是否存在内存泄漏。</p>
-<p><span style="color: #7B68EE">压迫测试</span> 是使软件在不够理想的条件下运行————内存小、 磁盘空间少、CPU速度慢、调制调节器速率低等。观察软件对外部资源的要求和依赖的程度。</p>
-<p><span style="color: #7B68EE">重负测试</span> 与压迫测试相反。是尽量提供条件任其发挥。让软件处理尽可能大的数据文件。</p>
-<p>时间也是一种重负测试。对于大多数软件，长期稳定的工作是很重要的</p>
-<p><span style="color: #FF0000">注意:重复、压迫和重负测试应联合使用，同时进行，这是找出以其他方式难以发现的严重缺陷的一个可靠的方法。</span></p>
-<h3 id="其他黑盒测试技术"><a href="#其他黑盒测试技术" class="headerlink" title="其他黑盒测试技术"></a>其他黑盒测试技术</h3><p>像笨拙的用户那样做</p>
-<p>在已找到的软件缺陷的地方再找找像黑客一样考虑问题</p>
-<p>凭借经验、直觉和预感</p>
-]]></content>
-      <categories>
-        <category>软件测试</category>
-      </categories>
-      <tags>
-        <tag>软件测试</tag>
-        <tag>《软件测试》</tag>
       </tags>
   </entry>
   <entry>
@@ -369,6 +276,36 @@ ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代�
       </tags>
   </entry>
   <entry>
+    <title>探索性软件测试</title>
+    <url>/2021/03/09/%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>所有软件都会执行四个基本任务：接受输出、产生输出、存储数据、进行运算。</p>
+<a id="more"></a>
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>大概是工作的第二个月开始看的这本书，对我这种新手来说，这本书比《软件测试》有趣的多。也是启发了我面对一个没有用过的产品时，该怎样有条理的进行测试。</p>
+<h3 id="漫游测试"><a href="#漫游测试" class="headerlink" title="漫游测试"></a>漫游测试</h3><p>把软件测试的过程当成一场旅游。</p>
+<h4 id="商业区"><a href="#商业区" class="headerlink" title="商业区"></a>商业区</h4><p>在城市中，商业区意味着繁荣，人群的拥挤。是来到一座城市后首选的地方(先找到市中心吃吃喝喝）<br>对软件测试来说，”商业区意味着”这个软件的主打功能。是用户最常用到的。<br>举例：测试一个音乐播放器app，登录注册、选歌单、听歌、收藏、后台播放、退出app。这些操作都是用户最常用到的。</p>
+<h4 id="历史区"><a href="#历史区" class="headerlink" title="历史区"></a>历史区</h4><p>测试从前版本留下的代码，曾经出现较多缺陷的特性和功能。很多缺陷可能这几个版本没有发现，后一个版本又复现了。(所以多轮迭代测试还是非常重要阿！对一些严重且概率较低的bug应该在每个版本都验证一下）</p>
+<h4 id="旅游区"><a href="#旅游区" class="headerlink" title="旅游区"></a>旅游区</h4><p>本地人不常去，外地人专门为此来的地方。在软件中，有些特性和功能对新用户非常有吸引力，老用户却不怎么使用。<br>ps：这个还真不好说，谁知道新用户看上了哪点呢~</p>
+<h4 id="娱乐区"><a href="#娱乐区" class="headerlink" title="娱乐区"></a>娱乐区</h4><p>类似于电影院，商场这样能让人休息放松的地方，<br>举例：这个举例感jio…居然想不出来，先空着占个地吧~</p>
+<h4 id="旅馆区"><a href="#旅馆区" class="headerlink" title="旅馆区"></a>旅馆区</h4><p>这当然就是休息的地方了~当软件休息时，实际上他还是非常忙碌。<br>举例：将蓝牙耳机放置桌上几小时，拿起来佩戴后，佩戴检测可能失效。</p>
+<h4 id="破旧区"><a href="#破旧区" class="headerlink" title="破旧区"></a>破旧区</h4><p>旅游中没有人想去的地方~<br>测试中，用户很少使用的功能，容易出错的功能~</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>这本书目前是看完了前四章，对这个漫游测试方法的印象最深，其他的倒是不怎么记得了，所以其他的也就没写QAQ..毕竟不是概念，还是先寻找到一种自己喜欢的测试方法比较重要<del>剩下的边看边理解吧</del></p>
+<h3 id="一个关于软件测试的笑话"><a href="#一个关于软件测试的笑话" class="headerlink" title="一个关于软件测试的笑话"></a>一个关于软件测试的笑话</h3><p>一个测试工程师走进一家酒吧，要了一杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯咖啡；<br>一个测试工程师走进一家酒吧，要了0.7杯啤酒；<br>一个测试工程师走进一家酒吧，要了-1杯啤酒；<br>一个测试工程师走进一家酒吧，要了2^32杯啤酒；<br>一个测试工程师走进一家酒吧，要了一杯洗脚水；<br>一个测试工程师走进一家酒吧，要了一杯蜥蜴；<br>一个测试工程师走进一家酒吧，要了一份asdfQwer@24dg!&amp;*(@；<br>一个测试工程师走进一家酒吧，什么也没要；<br>一个测试工程师走进一家酒吧，又走出去又从窗户进来又从后门出去从下水道钻进来；<br>一个测试工程师走进一家酒吧，又走出去又进来又出去又进来又出去，最后在外面把老板打了一顿；<br>一个测试工程师走进一家酒吧，要了一杯烫烫烫的锟斤拷；<br>一个测试工程师走进一家酒吧，要了NaN杯Null；<br>一个测试工程师冲进一家酒吧，要了500T啤酒咖啡洗脚水野猫狼牙棒奶茶；<br>一个测试工程师把酒吧拆了；<br>一个测试工程师化装成老板走进一家酒吧，要了500杯啤酒并且不付钱；<br>一万个测试工程师在酒吧门外呼啸而过；<br>一个测试工程师走进一家酒吧，要了一杯啤酒’;DROP TABLE 酒吧；<br>测试工程师们满意地离开了酒吧。<br>然后一名顾客点了一份炒饭，酒吧炸了。</p>
+]]></content>
+      <categories>
+        <category>软件测试</category>
+      </categories>
+      <tags>
+        <tag>软件测试</tag>
+        <tag>《探索性软件测试》</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/11/18/test/</url>
+    <content><![CDATA[<h1 id="这是一个测试文件"><a href="#这是一个测试文件" class="headerlink" title="这是一个测试文件"></a>这是一个测试文件</h1><p>百度: <a href="https://www.baidu.com/">https://www.baidu.com</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>构建博客中暂时未能解决的问题</title>
     <url>/2020/11/18/%E6%9E%84%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%9A%82%E6%97%B6%E6%9C%AA%E8%83%BD%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<center>如果有知道的请留言</center>
@@ -387,6 +324,90 @@ ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代�
 （持续更新中...)
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>测试基础一</title>
+    <url>/2021/01/25/%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80%E4%B8%80/</url>
+    <content><![CDATA[<hr/>     
+<a id="more"></a>
+
+<h2 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h2><h3 id="检查产品说明书"><a href="#检查产品说明书" class="headerlink" title="检查产品说明书"></a>检查产品说明书</h3><p>编写详细产品说明书可以将其作为测试项目的书面材料，据此可以在编写代码之前找出软件缺陷。</p>
+<h3 id="黑盆测试和白盒测试"><a href="#黑盆测试和白盒测试" class="headerlink" title="黑盆测试和白盒测试"></a>黑盆测试和白盒测试</h3><p><span style="color: #7B68EE">黑盒测试[功能性测试行为测试]</span><br>   无法看到盒子里的软件是如何运行的，只要进行一些输入,就能得到某种输出结果。</p>
+<p><span style="color: #7B68EE">白盒测试[透明性测试]</span><br>  可以访问程序员代码，并通过检查代码的线索来协助测试，测试员根据代码检查结果判断或多或少可能出错的数目，并据此定制测试。<br><span style="color: #FF0000">注意:进行白盒测试要冒一些风险。因为要以适应代码操作来定制测试，所以很容易形成偏见而无法进行客观测试。</p>
+<h3 id="静态测试和动态测试"><a href="#静态测试和动态测试" class="headerlink" title="静态测试和动态测试"></a>静态测试和动态测试</h3><p><span style="color: #7B68EE">静态测试</span>   测试不运行的部分，只是检查和审核</p>
+<p><span style="color: #7B68EE">动态测试</span>   通常意义上的测试，使用和运行软件</p>
+<p><span style="color: #FF0000">测试产品说明书属于静态黑盒测试。</p>
+<h3 id="审查竞争产品时要注意的问题包括"><a href="#审查竞争产品时要注意的问题包括" class="headerlink" title="审查竞争产品时要注意的问题包括"></a>审查竞争产品时要注意的问题包括</h3><p><span style="color: #7B68EE"> 规模</span>   软件的功能强大还是单一? 代码多还是少?这些差别与测试有关吗?</p>
+<p><span style="color: #7B68EE"> 复杂性</span>  软件简单还是复杂?会影响测试吗?</p>
+<p><span style="color: #7B68EE">测试性</span>  是否有足够的资源、时间和经验来测试软件?</p>
+<p><span style="color: #7B68EE">质量和可靠性 </span> 软件是否完全满足质量要求?可靠性高还是低?</p>
+<p><span style="color: #7B68EE">安全性 </span> 竞争对手软件的安全性(不管是宣传还是实际的)和自身的比较起来如何?</p>
+<h3 id="产品说明书属性检查清单"><a href="#产品说明书属性检查清单" class="headerlink" title="产品说明书属性检查清单"></a>产品说明书属性检查清单</h3><p><span style="color: #7B68EE">完整</span>   是否有遗漏和丢失?是否完全?单独使用时是否包含所有内容?</p>
+<p><span style="color: #7B68EE">准确</span>   既定解决方案正确吗?目标定义明确吗?有没有错误?</p>
+<p><span style="color: #7B68EE">精确、不含糊、清晰</span>   描述是否一清二楚?是否有单独的解释?容易看懂和理解吗?</p>
+<p><span style="color: #7B68EE">一致</span> 产品功能描述是否自相矛盾、或与其他功能有无冲突?</p>
+<p><span style="color: #7B68EE">贴切 </span>  描述功能的陈述是否必要?有没有多余信息?功能是否符合原来的客户要求?</p>
+<p><span style="color: #7B68EE">合理</span>  在规定的预算和进度下，以现有人力、工具和资源能否实现?</p>
+<p><span style="color: #7B68EE">代码无关</span> 产品说明书是否坚持定义产品，而不是定义其软件设计、架构和代码</p>
+<p><span style="color: #7B68EE">可测试性</span>  功能能否测试?给测试员提供的建立验证操作的信息量是否足够?</p>
+<h2 id="第五章"><a href="#第五章" class="headerlink" title="第五章"></a>第五章</h2><p><span style="color: #7B68EE">动态黑盒测试</span> 不深入代码细节测试软件的方法。测试员输入数据、接受输出、检验结果。</p>
+<p><span style="color: #7B68EE">测试用例</span>  进行测试时使用特定输入，以及测试软件的过程步骤</p>
+<h3 id="软件测试两种基本方法"><a href="#软件测试两种基本方法" class="headerlink" title="软件测试两种基本方法"></a>软件测试两种基本方法</h3><p><span style="color: #7B68EE">通过性测试</span>  确认软件至少能做什么，而不会考验其能力，仅用最简单，最直观的测试用例。</p>
+<p>纯粹为了破坏软件而设计和执行的测试用例称为   <span style="color: #7B68EE">失效性测试或错误强制测试</span></p>
+<p><span style="color: #4169E1">等价类划分<br><span style="color: #4169E1">选择测试用例的方法是等价类划分，等价类划分是指分步骤地把海量的测试用例集减的很小，但过程同样有效。</p>
+<p><span style="color: #FF0000">注意:一个等价类或者等价划分是指测试相同目标或者暴露相同软件缺陷的一组测试用例</span></p>
+<hr/>
+<span style="color: #FF0000">数据测试</span>
+对软件最简单的认识就是将其分成两部分:数据(或其范围)和程序。数据包括键盘输入、鼠标单击、磁盘文件、打印输出等。程序是指可执行的流程、转换。软件测试常用的一个方法是把测试工作按同样的形式划分。
+
+<p><span style="color: #FF0000">边界条件</span><br>边界条件是特殊情况，因为编程从根本上说在边界上容易产生问题。</p>
+<p><span style="color: #FF0000">次边界条件</span><br>有些边界在软件内部，最终用户几乎看不到，但是软件测试员仍然有必要进行检查。这样的边界条件称为次边界条件。</p>
+<p>一定要考虑建立处理<span style="color: #FF0000">默认值、空白、空值、零值或者无输入</span>等条件的等价划分</p>
+<p><span style="color: #4169E1">因为这些值在软件中通常进行不同的处理，所以不要把它们与合法情况和非法情况混在一起，而要建立单独的等价划分。可能在这种默认情况下,和输入或者-1作为非法值比较起来,软件会执行不同路径。由于考虑到软件的不同操作，所以应把这些作为单独的等价划分。</span></p>
+<p><span style="color: #FF0000">非法、错误、不正确和垃圾数据.</span></p>
+<p>此类软件没有实际的规则，只是设法破坏软件,要发挥创造力，学会走偏门。</p>
+<h3 id="状态测试"><a href="#状态测试" class="headerlink" title="状态测试"></a>状态测试</h3><p>软件状态是指软件当前所处的条件或者模式。</p>
+<p>软件通过代码执行进入某一个分支,触发一些数据位， 设置某些变量，读取某些数据，转入一个新的状态。</p>
+<p><span style="color: #FF0000">注意软件测试员必须测试程序的状态及其转换</span></p>
+<p>对于软件测试，解决方法是运用等价划分技术选择状态和分支。因为选择不做完全测试，所以要承担一定的风险,但是要通过合理选择减少风险。</p>
+<h4 id="状态转换图应该表示出以下项目"><a href="#状态转换图应该表示出以下项目" class="headerlink" title="状态转换图应该表示出以下项目:"></a>状态转换图应该表示出以下项目:</h4><p>软件可能进入的每一种独立状态</p>
+<p>从一种状态转入另一种状态所需的输入和条件</p>
+<p>状态转换图应该表示出以下项目:</p>
+<p>软件可能进入的每种独立状态</p>
+<p>从一种状态转入另-种状态所需的输入和条件</p>
+<p>进入或者退出某种状态时的设置条件及输出结果</p>
+<h4 id="需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法"><a href="#需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法" class="headerlink" title="需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法"></a>需要将大量的可能性减少到可以操作的测试用例集合，有以下5种实现方法</h4><p>每种状态至少访问一次。如何到达没有关系。但是每一种状态都必须测试</p>
+<p>测试看起来是最常见和最普遍的状态转换</p>
+<p>测试状态之间最不常用的分支</p>
+<p>测试所有错误状态及其返回值</p>
+<p>测试随机状态转换</p>
+<p><span style="color: #4169E1">测试状态及其转换包括检查所有的状态变量</span>——<span style="color: #FF0000">与进入和退出状态相关的静态条件、信息、值、功能等。</span></p>
+<h3 id="竞争条件和时序错乱"><a href="#竞争条件和时序错乱" class="headerlink" title="竞争条件和时序错乱"></a>竞争条件和时序错乱</h3><p><span style="color: #7B68EE">以下是可能会面临竞争条件的例子情形</span></p>
+<p>两个不同的程序同时保存和打开同一个文档</p>
+<p>共享同一台打印机、通信端口或者其他外围设备</p>
+<p>当软件处于读取或者改变状态时按键或者单击鼠标</p>
+<p>当软件处于读取或者改变状态时按键或者单击鼠标</p>
+<p>同时关闭或者启动软件的多个实例</p>
+<p>同时使用不同的程字访问-个共同的数据库</p>
+<hr/>
+另外三个失效性测试是<span style="color: #FF0000">重复、压迫和重负</span>。这些测试的目标是那些处理程序员没考虑到，但在极端恶劣条件下可能发生问题的状态。
+
+<p><span style="color: #7B68EE">重复测试</span> 不断执行同样的操作。进行这种反复测试的主要原因是检查是否存在内存泄漏。</p>
+<p><span style="color: #7B68EE">压迫测试</span> 是使软件在不够理想的条件下运行————内存小、 磁盘空间少、CPU速度慢、调制调节器速率低等。观察软件对外部资源的要求和依赖的程度。</p>
+<p><span style="color: #7B68EE">重负测试</span> 与压迫测试相反。是尽量提供条件任其发挥。让软件处理尽可能大的数据文件。</p>
+<p>时间也是一种重负测试。对于大多数软件，长期稳定的工作是很重要的</p>
+<p><span style="color: #FF0000">注意:重复、压迫和重负测试应联合使用，同时进行，这是找出以其他方式难以发现的严重缺陷的一个可靠的方法。</span></p>
+<h3 id="其他黑盒测试技术"><a href="#其他黑盒测试技术" class="headerlink" title="其他黑盒测试技术"></a>其他黑盒测试技术</h3><p>像笨拙的用户那样做</p>
+<p>在已找到的软件缺陷的地方再找找像黑客一样考虑问题</p>
+<p>凭借经验、直觉和预感</p>
+]]></content>
+      <categories>
+        <category>软件测试</category>
+      </categories>
+      <tags>
+        <tag>软件测试</tag>
+        <tag>《软件测试》</tag>
+      </tags>
   </entry>
   <entry>
     <title>测试基础二</title>
@@ -487,27 +508,6 @@ ADB，即 Android Debug Bridge，它是 Android 开发/测试人员不可替代�
       <tags>
         <tag>软件测试</tag>
         <tag>《软件测试》</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2022世界杯</title>
-    <url>/2022/11/20/2022%E4%B8%96%E7%95%8C%E6%9D%AF/</url>
-    <content><![CDATA[<p>明天世界杯就要开始啦! 我真的好久没写博客了呀，不能再摆烂了 !。</p>
-<a id="more"></a>
-<h3 id="这一年"><a href="#这一年" class="headerlink" title="这一年"></a>这一年</h3><p>很明显心境和刚毕业时有了很大的不同，去年觉得时间还早，我还有时间，每得到一点成就都会觉得自己进步很大。今年经常会觉得很累，进步的很慢，毕竟不知不觉已经毕业快一年半了，读研的同学已经读完了一年，考研的同学今年也已经是三战。更别说有很多高中同学今年已经结婚。时间过的好快啊，我总是觉得很彷徨，人生不过短短数十年，而毕业后要在几年内完成很多的事情。环境一直在推着我往前走，在我觉得还不知道去哪的时候。有时候也会觉得自己比起以前已经很棒了，我一直在责备自己，又想办法原谅自己。</p>
-<h3 id="关于拖延症"><a href="#关于拖延症" class="headerlink" title="关于拖延症"></a>关于拖延症</h3><p>我确实是有很大的拖延症在身上的，或者说除了到真的ddl的时候，否则我很难进入状态。这个是真的要改呀！</p>
-<h3 id="随缘写一些2022的事情"><a href="#随缘写一些2022的事情" class="headerlink" title="随缘写一些2022的事情"></a>随缘写一些2022的事情</h3><h4 id="中秋的月亮会按时圆吗？"><a href="#中秋的月亮会按时圆吗？" class="headerlink" title="中秋的月亮会按时圆吗？"></a>中秋的月亮会按时圆吗？</h4><p>来源于我中秋节前一周回老家，晚上和李超去河边散步，发现要中秋节了，月亮还是很弯。当时我们两很担心月亮在中秋节会不会按时圆，毕竟中秋节如果是弯弯的月亮那多不好啊。后面中秋节时发现果然是我们有多余的担心了！当时还特意查了一下月相（但是没怎么弄明白），本来是想搞个模型计算一下在地球各个位置看月球的具体弧度的，但是…没查到啥资料hhhh</p>
-<h4 id="关于爬山"><a href="#关于爬山" class="headerlink" title="关于爬山"></a>关于爬山</h4><p>说象鼻窝的那次爬山吧，收尾的那个小哥说，他之前在深圳时每周爬一次山坚持了一年多，但是也没想明白很多事情.<br>有很多事情我也想不明白，一直想也很难想明白。</p>
-<h4 id="关于运动"><a href="#关于运动" class="headerlink" title="关于运动"></a>关于运动</h4><p>开始跑步了！虽然还没坚持多久，但是总归是开始了。很喜欢在一个比较安静的刮着小风的湖边跑步，这种氛围很好~我觉得我还是喜欢一个人的</p>
-<h4 id="生老病死"><a href="#生老病死" class="headerlink" title="生老病死"></a>生老病死</h4><p>中秋节前回去时，爷爷一直在说一些事情，但是其实我很不想听，他一说我就想哭。有种交代后事的感觉，是一件让我觉得很伤心的事情。</p>
-<h4 id="人是复杂的"><a href="#人是复杂的" class="headerlink" title="人是复杂的"></a>人是复杂的</h4><p>记得高中时有次语文试卷上的一篇文章，大概内容是发动战争那方的将军被另一方抓获后还保持着尊严，也因此被另一方的将军给予了一定程度的尊重（没记错的话应该是这样）当时的题目是这体现了人的什么性，我想了很久也没想出答案，毕竟发动战争的罪恶方有一些尊严那又如何呢？我陷入了关于好坏的思考。最后课上老师说：这体现了人的复杂性，人是复杂的。这句话让我记了很久很久，人是复杂的，而当今的网络环境把人都分为二极管了，每当在网上看到这种言论，我始终会想起：人是复杂的。<br><br><br>很多时候真的觉得，世界真的好神奇啊。我是怎样活在这个世界的呢。未来又会以怎样的形式在宇宙中。</p>
-]]></content>
-      <categories>
-        <category>2022</category>
-      </categories>
-      <tags>
-        <tag>2022</tag>
-        <tag>日常</tag>
       </tags>
   </entry>
 </search>
